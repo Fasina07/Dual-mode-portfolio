@@ -1,0 +1,9 @@
+<!-- Favicon placeholder -->
+<!-- This is a placeholder for the favicon.ico file -->
+<!-- You can generate a favicon from your logo or initials at https://favicon.io/ or similar services -->
+
+<!-- Add this to your HTML head section -->
+<link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
